@@ -158,8 +158,14 @@ npx blueprint create ContractName
 ## Submission
 
 Ensure both challenges are completed and all tests pass before submission. Good luck!
-
-To submit, fill the form given below 
+Make sure you have everything before submission:
+1. Github fork url of this repo
+2. Screenshot of test cases passed 
+3. Name the image file as - FirstName_LastName_Tests
+4. TON wallet address of mainnet
+5. Telegram Username
+   
+To submit, fill the form given below
 [TON Dev House Submission Form](https://forms.gle/67Pswe6V5FmSWjYE9)
 
 ---
