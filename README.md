@@ -102,24 +102,26 @@ npx blueprint create ContractName
 
 ## Getting Started
 
-1. **Clone this repository**
+1. **Fork this repository**
+   
+2. **Clone that repository**
    ```bash
    git clone <repository-url>
    cd Ton_Dev_house_challenges
    ```
 
-2. **Install dependencies**
+3. **Install dependencies**
    ```bash
    npm install
    ```
 
-3. **Start with Challenge 1**
+4. **Start with Challenge 1**
    ```bash
    # Run tests to see what needs fixing
    npx blueprint test tests/EscrowSystem.spec.ts
    ```
 
-4. **Move to Challenge 2**
+5. **Move to Challenge 2**
    ```bash
    # Implement the SimpleDAO contract
    # Then test your implementation
@@ -156,6 +158,9 @@ npx blueprint create ContractName
 ## Submission
 
 Ensure both challenges are completed and all tests pass before submission. Good luck!
+
+To submit, fill the form given below 
+[TON Dev House Submission Form](https://forms.gle/67Pswe6V5FmSWjYE9)
 
 ---
 
